@@ -27,7 +27,7 @@ To build the application in Visual Studio:
 
 ## Screenshots and Instructions
 
-# ![on-launch](screenshots/launch.png)
+# ![on-launch](screenshots/on-launch.png)
 
 On launching the application, you will see the screen above. Create a .txt file that consists of line-delimited `c` or `l` characters, based on the observations that you want to test. A example test file (testInput.txt) is provided in the repository.
 
