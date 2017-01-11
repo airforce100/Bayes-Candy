@@ -37,9 +37,11 @@ After you create your .txt file, return to the application and press "Select Fil
 
 # ![update-hypotheses](screenshots/update-hypotheses.png)
 
-You can change the default probability settings for the hypotheses as you like. In any event, the sum probability of all the hypotheses must equal 1.
+You can change the default probability settings for the hypotheses as you like; then, press "Plot". As shown in the screenshot above, the graph is updated to reflect these changes. Note that the sum probability of all the hypotheses must equal 1.
 
-*Note* - The following is a reference for the significance of each hypothesis.
+### Reference
+
+The following is a reference for the significance of each hypothesis:
 
 - h<sub>1</sub>: 100% cherry
 - h<sub>2</sub>: 75% cherry, 25% lime
