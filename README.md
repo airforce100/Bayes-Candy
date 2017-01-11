@@ -9,7 +9,7 @@ This project is a Windows Form application that models Bayesian Learning through
 
 ## Release 
 
-[v1.0](link)
+[v1.0](https://github.com/airforce100/Bayes-Candy/releases)
 
 ## Building
 
