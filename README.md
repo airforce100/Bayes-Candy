@@ -22,8 +22,8 @@ To build the application in Visual Studio:
 3. Build the project: **Build->Build Solution**
 
 4. Check your build configuration: **Build->Configuration Manager**
-  * If your Configuration is Debug, then the .exe will be located in Bayes-Candy/bin/Debug/Bayes-Candy.exe
-  * If your configuration is Release, then the .exe will be located in Bayes-Candy/bin/Debug/Bayes-Candy.exe
+  * If your configuration is Debug, then the .exe will be located in Bayes-Candy/bin/Debug
+  * If your configuration is Release, then the .exe will be located in Bayes-Candy/bin/Release
 
 ## Screenshots and Instructions
 
